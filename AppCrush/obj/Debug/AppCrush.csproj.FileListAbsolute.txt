@@ -1,0 +1,10 @@
+D:\WinForm\AppCrush\AppCrush\bin\Debug\AppCrush.exe.config
+D:\WinForm\AppCrush\AppCrush\bin\Debug\AppCrush.exe
+D:\WinForm\AppCrush\AppCrush\bin\Debug\AppCrush.pdb
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.csprojAssemblyReference.cache
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.Form.resources
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.Properties.Resources.resources
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.csproj.GenerateResource.cache
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.exe
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.pdb
+D:\WinForm\AppCrush\AppCrush\obj\Debug\AppCrush.csproj.CoreCompileInputs.cache
